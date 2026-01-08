@@ -14,12 +14,5 @@ conda list
 gsea
 ```
 4️⃣ Perform analysis on the GSEA interface
-```md
 
-<p align="center">
-  <img src="images/GSEA_interface.png" width="600" alt="GSEA interface overview">
-</p>
-
-*Figure 1. GSEA graphical user interface used in the hands-on session.*
-
-```
+![GSEA interface overview](images/GSEA_interface.png)
